@@ -1,0 +1,21 @@
+title,region,region_name,region_parent_name,price,bedrooms,bathrooms,property_size,furnishing,is_boost
+"9bdrm Block of Flats in Mercy Land Estate, Alimosho for sale","Lagos State, Alimosho",Alimosho,Lagos State,"₦ 53,000,000,000",9,6,600,Unfurnished,vip_gold
+"Furnished 6bdrm Duplex in Cooperative Estate, Alimosho for sale","Lagos State, Alimosho",Alimosho,Lagos State,"₦ 180,000,000",6,7,300,Furnished,vip_gold
+"5bdrm Block of Flats in Mercyland Estate, Alimosho for sale","Lagos State, Alimosho",Alimosho,Lagos State,"₦ 40,000,000",5,5,300,Unfurnished,vip_gold
+"Furnished 11bdrm Block of Flats in Mercy Land Estate, Alimosho for sale","Lagos State, Alimosho",Alimosho,Lagos State,"₦ 120,000,000",11,11,1200,Furnished,vip_gold
+"8bdrm Block of Flats in Ifesowapo Estate, Alimosho for sale","Lagos State, Alimosho",Alimosho,Lagos State,"₦ 25,000,000",8,4,5000,Unfurnished,vip_gold
+4bdrm Duplex in Gaduwa for sale,"Abuja (FCT), Gaduwa",Gaduwa,Abuja (FCT),"₦ 450,000,000",4,4,2000,Semi-Furnished,premium
+6bdrm Bungalow in Ketu-Ikosi for sale,"Kosofe, Ketu-Ikosi",Ketu-Ikosi,Kosofe,"₦ 40,000,000",6,2,250,Unfurnished,False
+"4bdrm Duplex in Captains Court, Ado / Ajah for sale","Ajah, Ado / Ajah",Ado / Ajah,Ajah,"₦ 210,000,000",4,4,400,Unfurnished,False
+"5bdrm Duplex in Captains Court, Ado / Ajah for sale","Ajah, Ado / Ajah",Ado / Ajah,Ajah,"₦ 320,000,000",5,5,400,Unfurnished,False
+6bdrm Bungalow in Ipaja / Ipaja for sale,"Ipaja, Ipaja / Ipaja",Ipaja / Ipaja,Ipaja,"₦ 50,000,000",6,6,600,Unfurnished,diamond
+5bdrm Townhouse/Terrace in Phase 1 for sale,"Lekki, Lekki Phase 1",Lekki Phase 1,Lekki,"₦ 550,000,000",5,5,600,Semi-Furnished,enterprise
+4bdrm Townhouse/Terrace in Guzape District for sale,"Abuja (FCT), Guzape District",Guzape District,Abuja (FCT),"₦ 320,000,000",4,4,200,Unfurnished,premium
+Furnished 4bdrm Townhouse/Terrace in Chesville Estate for sale,"Gwarinpa, Life Camp",Life Camp,Gwarinpa,"₦ 13,000,000",4,4,350,Furnished,enterprise
+4bdrm Bungalow in Gwarinpa for sale,"Abuja (FCT), Gwarinpa",Gwarinpa,Abuja (FCT),"₦ 95,000,000",4,5,570,Unfurnished,False
+6bdrm Duplex in Guzape District for sale,"Abuja (FCT), Guzape District",Guzape District,Abuja (FCT),"₦ 700,000,000",6,6,450,Unfurnished,premium
+"3bdrm Bungalow in Temidire Estate, Ologuneru for sale","Ibadan, Ologuneru",Ologuneru,Ibadan,"₦ 100,000,000",3,3,500,Unfurnished,vip_gold
+"4bdrm House in Liligold, Aniocha South for sale","Delta State, Aniocha South",Aniocha South,Delta State,"₦ 40,000,000",4,6,3699,Unfurnished,False
+3bdrm Apartment in Ikoyi S.W for sale,"Ikoyi, Ikoyi S.W",Ikoyi S.W,Ikoyi,"₦ 570,000,000",3,3,200,Unfurnished,vip
+5bdrm Duplex in Lekki Phase 1 for sale,"Lekki, Lekki Phase 1",Lekki Phase 1,Lekki,"₦ 1,500,000,000",5,5,500,Unfurnished,vip
+4bdrm Duplex in Ikate for sale,"Lekki, Ikate",Ikate,Lekki,"₦ 400,000,000",4,4,300,Unfurnished,vip

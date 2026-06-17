@@ -1,0 +1,21 @@
+title,region,region_name,region_parent_name,price,bedrooms,bathrooms,property_size,furnishing,is_boost
+"5bdrm Duplex in Admiralty Way, Lekki Phase 1 for sale","Lekki, Lekki Phase 1",Lekki Phase 1,Lekki,"₦ 720,000,000",5,5,700,Unfurnished,vip_gold
+2bdrm Apartment in Osapa london for sale,"Lekki, Osapa london",Osapa london,Lekki,"₦ 180,000,000",2,2,300,Semi-Furnished,enterprise
+5bdrm Townhouse Terrace in Ogudu Gra Phase1 for sale,"Ogudu, Ogudu GRA",Ogudu GRA,Ogudu,"₦ 750,000,000",5,4,400,Semi-Furnished,enterprise
+5bdrm Duplex in Ado / Ajah for sale,"Ajah, Ado / Ajah",Ado / Ajah,Ajah,"₦ 310,000,000",5,5,333,Semi-Furnished,enterprise
+3bdrm House in Benin City for sale,"Edo State, Benin City",Benin City,Edo State,"₦ 12,000,000",3,4,465,Unfurnished,False
+"5bdrm Duplex in Ajah, Lekki Gardens Estate for sale","Ajah, Lekki Gardens Estate",Lekki Gardens Estate,Ajah,"₦ 310,000,000",5,4,333,Semi-Furnished,enterprise
+5bdrm Duplex in Sangotedo for sale,"Ajah, Sangotedo",Sangotedo,Ajah,"₦ 140,000,000",5,6,450,Semi-Furnished,enterprise
+5bdrm Duplex in GRA Phase 1 for sale,"Magodo, GRA Phase 1",GRA Phase 1,Magodo,"₦ 630,000,000",5,1,1000,Unfurnished,enterprise
+5bdrm Duplex in GRA Phase 1 for sale,"Magodo, GRA Phase 1",GRA Phase 1,Magodo,"₦ 630,000,000",5,1,1000,Unfurnished,enterprise
+4bdrm Duplex in Ikota for sale,"Lekki, Ikota",Ikota,Lekki,"₦ 140,000,000",4,4,100,Unfurnished,enterprise
+4bdrm Duplex in Ado / Ajah for sale,"Ajah, Ado / Ajah",Ado / Ajah,Ajah,"₦ 180,000,000",4,4,300,Semi-Furnished,enterprise
+"3bdrm Block of Flats in Ikot Oku Idio, Uyo for sale","Akwa Ibom State, Uyo",Uyo,Akwa Ibom State,"₦ 16,000,000",3,1,400,Semi-Furnished,False
+"10bdrm House in Upstairs, Ilorin West for sale","Kwara State, Ilorin West",Ilorin West,Kwara State,"₦ 200,000,000",10,4,450,Unfurnished,False
+"3bdrm Block of Flats in Glory Estate, Isiu for sale","Ikorodu, Isiu",Isiu,Ikorodu,"₦ 7,000,000",3,3,600,Unfurnished,False
+5bdrm Duplex in Magodo Gra Phase 1 for sale,"Magodo, GRA Phase 1",GRA Phase 1,Magodo,"₦ 650,000,000",5,4,350,Semi-Furnished,enterprise
+2bdrm Duplex in Ologolo for sale,"Lekki, Ologolo",Ologolo,Lekki,"₦ 160,000,000",2,2,100,Unfurnished,enterprise
+3bdrm Apartment in Lekki Phase 1 for sale,"Lekki, Lekki Phase 1",Lekki Phase 1,Lekki,"₦ 450,000,000",3,3,100,Unfurnished,enterprise
+1bdrm Apartment in Lekki for sale,"Lekki, Lekki Phase 1",Lekki Phase 1,Lekki,"₦ 110,000,000",1,1,150,Unfurnished,enterprise
+3bdrm Duplex in Ologolo for sale,"Lekki, Ologolo",Ologolo,Lekki,"₦ 150,000,000",3,3,100,Unfurnished,enterprise
+2bdrm Apartment in Ologolo for sale,"Lekki, Ologolo",Ologolo,Lekki,"₦ 110,000,000",2,2,100,Unfurnished,enterprise
