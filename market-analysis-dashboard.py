@@ -52,11 +52,10 @@ def display_metrics(filtered_df):
     col1, col2, col3, col4 = st.columns(4)
 
     with col1:
-        st.metric("🏠Total House Listings", len(filtered_df))
-
+        st.metric("🏠Total House Listings", f"{len(filtered_df):,}")
     with col2:
-        avg_price = filtered_df['price'].mean() if len(filtered_df) > 0 else 0
-        st.metric("⛪Average Price", f"₦{avg_price:,.2f}")
+        avg_price = (filtered_df["price"].mean() / 1_000_000) if len(filtered_df) > 0 else 0
+        st.metric("⛪Average Price", f"₦{avg_price:.2f}M")
 
     with col3:
         common_region = filtered_df['Region'].mode()[0] if not filtered_df.empty else "N/A"
