@@ -1,4 +1,4 @@
-title,property_size,bedrooms,bathrooms,furnishing,Region,Region Name,Region Parent Name,is_boost,price
+title,property_size,bedrooms,bathrooms,furnishing,Region,Region Name,Region_Parent_Name,is_boost,price
 2bdrm Apartment in Life Camp for sale,250.0,2,2,Unfurnished,"Gwarinpa, Life Camp",Life Camp,Gwarinpa,False,75000000
 Furnished 3bdrm Bungalow in Zone B for sale,600.0,3,4,Furnished,"Apo District, Zone B",Zone B,Apo District,enterprise,200000000
 "1bdrm Bungalow in Ughoton, Warri for sale",232.0,1,1,Unfurnished,"Delta State, Warri",Warri,Delta State,vip_gold,40000000
