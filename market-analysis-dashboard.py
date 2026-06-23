@@ -185,9 +185,9 @@ def main():
                 
             Furnished luxury apartments generate the highest pricing power on Jiji.
 
-            Lagos contributes the largest revenue opportunity due to high listing volume and premium prices.
+            Ahmadu Bello Way contributes the largest revenue opportunity due to high listing volume and premium prices.
 
-            Abuja remains a strong secondary market for upscale housing.
+            Garki remains a strong secondary market for upscale housing.
 
             Lower-performing states need targeted advertising and improved property presentation.
 
