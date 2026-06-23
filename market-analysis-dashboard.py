@@ -17,7 +17,7 @@ st.set_page_config(
 @st.cache_data
 def load_data():
     try:
-        df = pd.read_csv("data/nigeria-housing-cleaned-dataset.csv")
+        df = pd.read_csv("data/nigeria-housing-cleaned-dataset.csv",)
         return df
     except FileNotFoundError as e:
         st.warning(f"An error occured: {e}")
@@ -180,6 +180,25 @@ def main():
     #display_table_data
     st.markdown("---")
     display_table_data(filtered_df)
+    st.subheader("Insights & Recommendations")
+
+    st.markdown("""
+                
+            Furnished luxury apartments generate the highest pricing power on Jiji.
+
+            Lagos contributes the largest revenue opportunity due to high listing volume and premium prices.
+
+            Abuja remains a strong secondary market for upscale housing.
+
+            Lower-performing states need targeted advertising and improved property presentation.
+
+            Sellers should include detailed property features, professional photos, and furnishing information.
+
+            Boosted listings attract greater visibility and are associated with higher-priced properties.
+
+            Real estate agencies should prioritize premium inventory in Lagos and Abuja while using promotional campaigns to grow demand in emerging regions.
+                """)
+
 main()
 
 
