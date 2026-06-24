@@ -23,7 +23,7 @@ def load_data():
         st.warning(f"An error occured: {e}")
 
 def create_sidebar_filters(df):
-    st.subheader("Housing filters")
+    st.sidebar.subheader("Housing filters")
 
     Region = st.sidebar.multiselect(
          "Select Region(s):", 
@@ -152,7 +152,7 @@ def display_table_data(filtered_df):
    if len(filtered_df) > 0:
       st.dataframe(filtered_df, width='stretch', height=300)
    else:
-      st.warning("No employee data to display")
+      st.warning("No housing data to display")
 
 
 
@@ -185,7 +185,7 @@ def main():
                 
             Furnished luxury apartments generate the highest pricing power on Jiji.
 
-            Jigawa State contributes the largest revenue opportunity due to high listing volume and premium prices.
+            Lagos State contributes the largest revenue opportunity due to high listing volume and premium prices.
 
             Wuse remains a strong secondary market for upscale housing.
 
